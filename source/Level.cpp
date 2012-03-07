@@ -18,6 +18,6 @@ void Level::set_local(LocalPlayer* player) {
     local = player;
 }
 
-void update() {
+void update() { //This should be in the main game loop with SDL
     //Go through all objects and call update
 }

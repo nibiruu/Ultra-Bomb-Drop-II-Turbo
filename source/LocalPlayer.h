@@ -1,4 +1,4 @@
-#include "LocalPlayer.h"
+#include "Player.h"
 
 class LocalPlayer : public Player {
     
